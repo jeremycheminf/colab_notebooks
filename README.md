@@ -1,2 +1,2 @@
 # colab_notebooks
-Collab notebooks for cheminf worj
+Colab notebooks for cheminf work
